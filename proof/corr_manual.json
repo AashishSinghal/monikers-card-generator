@@ -1,0 +1,106 @@
+[
+ {
+  "i": 79,
+  "field": "Person",
+  "corrected": "Hannibal Lecter",
+  "changes": [
+   {
+    "from": "Lector",
+    "to": "Lecter",
+    "note": "real name is Hannibal Lecter"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 107,
+  "field": "Text",
+  "corrected": "An employee of a US Department of\nHomeland Security branch. Many of\nits employees are posted in airports\nto screen passengers and their\nproperty, including pat-downs and\nviewing x-rays. Their average salary\nis $25K-$38K per year, excluding\nswag.",
+  "changes": [
+   {
+    "from": "a us Department",
+    "to": "a US Department",
+    "note": "small-caps US"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 256,
+  "field": "Text",
+  "corrected": "The star of a viral video that shows\na high school student imitating\nlightsaber moves using a golf ball\nretriever. The tape leaked online\nafter being left in the basement of\nhis school, leading to dozens of\nremixes featuring music and\nadvanced special effects.",
+  "changes": [
+   {
+    "from": "student Imitating",
+    "to": "student imitating",
+    "note": "capital-I mid-sentence"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 290,
+  "field": "Text",
+  "corrected": "A missionary and Nobel Peace Prize\nwinner who claimed \"the world is\nbeing helped by the suffering of\npoor people.\" Her Home for the\nDying Destitutes in Calcutta offered\nno significant medical care and only\n7% of donations to her organization\nwere directly used for charity.",
+  "changes": [
+   {
+    "from": "in calcutta",
+    "to": "in Calcutta",
+    "note": "proper noun"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 292,
+  "field": "Text",
+  "corrected": "The large, mentally disabled friend\nof George in Of Mice and Men. He\nloves petting soft things, but is\nunable to control his strength,\naccidentally killing a puppy and a\nwoman. George shoots him at the\nend of the novel to protect him\nfrom an angry lynch mob.",
+  "changes": [
+   {
+    "from": "George In Of Mice",
+    "to": "George in Of Mice",
+    "note": "capital-I mid-sentence"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 295,
+  "field": "Person",
+  "corrected": "The Übermensch",
+  "changes": [
+   {
+    "from": "The Obermensch",
+    "to": "The Übermensch",
+    "note": "OCR of Ü as O; Nietzsche term"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 323,
+  "field": "Person",
+  "corrected": "Pharrell's hat",
+  "changes": [
+   {
+    "from": "Pharell",
+    "to": "Pharrell",
+    "note": "rapper is Pharrell Williams"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 330,
+  "field": "Text",
+  "corrected": "In gay culture, a person who prefers\npenetration during intercourse,\nusually through the anus. A survey\nof nearly 56,000 profiles on\ngay.com found that 32% of US\nrespondents preferred bottom, 26%\npreferred top, and 42% preferred\nthe versatile role.",
+  "changes": [
+   {
+    "from": "of us\nrespondents",
+    "to": "of US\nrespondents",
+    "note": "small-caps US"
+   }
+  ],
+  "uncertain": false
+ }
+]

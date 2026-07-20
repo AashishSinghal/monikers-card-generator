@@ -1,0 +1,369 @@
+[
+ {
+  "i": 301,
+  "field": "Text",
+  "corrected": "An English musician known for her\nidiosyncratic vocal delivery, literary\nsensibility, hit singles such as\n\"Wuthering Heights\" and \"Babooshka.\"\nOne of her Karate instructors\nhas noted that many of her dance\nmoves owe a debt to her martial\narts training.",
+  "changes": [
+   {
+    "from": "id losyncratlc",
+    "to": "idiosyncratic",
+    "note": "OCR l/i + stray space"
+   },
+   {
+    "from": "del Ivery",
+    "to": "delivery",
+    "note": "OCR split + I/l"
+   },
+   {
+    "from": "Babooshka.\n· One",
+    "to": "Babooshka.\"\nOne",
+    "note": "stray · stood in for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 302,
+  "field": "Person",
+  "corrected": "A Cyberbully",
+  "changes": [
+   {
+    "from": "A Cyberbu lly",
+    "to": "A Cyberbully",
+    "note": "OCR stray space"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 303,
+  "field": "Text",
+  "corrected": "The popular term for a gymnophobic,\na person who fear nakedness.\nThe condition was satirized on the\nshow Arrested Development, where\nthe character Tobias Fanke would\nwear cutoff jean shorts at all times.\nAs of 2014, the condition is still not\nrecognized by the DSM.",
+  "changes": [
+   {
+    "from": "sti II not",
+    "to": "still not",
+    "note": "OCR split"
+   },
+   {
+    "from": "",
+    "to": "",
+    "note": "'Fanke' is likely the character 'Tobias Fünke' (left unchanged — confirm)"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 311,
+  "field": "Text",
+  "corrected": "An amateur bowler and alleged\npederast in the Coen Brothers film\nThe Big Lebowski. Played by John\nTurturro, he speaks with a heavy\nCuban accent, paints his pinky\nfingers red, wears a hairnet, refers\nto himself in the third person, and is\nnot to be fucked with.",
+  "changes": [
+   {
+    "from": "pederast In the",
+    "to": "pederast in the",
+    "note": "capital-I for i mid-sentence"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 313,
+  "field": "Text",
+  "corrected": "A London-based band formed by\nthe Fairbrassin brothers in 1989,\nwho are famous for their hit, \"I'm\nToo Sexy,\" which pokes fun at the\nfashion industry with such notable\nlines as \"Yeah on the catwalk,\nyeah I shake my little tush on the\ncatwalk.\"",
+  "changes": [
+   {
+    "from": "yeah I I shake",
+    "to": "yeah I shake",
+    "note": "OCR doubled I"
+   },
+   {
+    "from": "",
+    "to": "",
+    "note": "'Fairbrassin brothers' is likely 'Fairbrass brothers' (left unchanged — confirm)"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 315,
+  "field": "Text",
+  "corrected": "A person who smuggles illicit drugs\nacross national borders. While\nmethods vary, one involves\nswallowing latex balloons filled with\nthe substance, which is later\nrecovered in their feces. Detection\nof this method is difficult and is\noften only found on x-ray.",
+  "changes": [
+   {
+    "from": "late><",
+    "to": "latex",
+    "note": "OCR >< read for x"
+   },
+   {
+    "from": "difficu It",
+    "to": "difficult",
+    "note": "OCR split"
+   },
+   {
+    "from": "><-ray",
+    "to": "x-ray",
+    "note": "OCR >< read for x"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 316,
+  "field": "Text",
+  "corrected": "One of the three parts of\nSigmund Freud's model of the\npsyche that constitute mental life. It\nplays an executive function,\nmediating between raw instinct and\nexternal reality, such as your ability\nto delay immediate pleasure for\nlong term objectives.",
+  "changes": [
+   {
+    "from": "One of the the three",
+    "to": "One of the three",
+    "note": "duplicated word"
+   },
+   {
+    "from": "an e><ecutive",
+    "to": "an executive",
+    "note": "OCR >< read for x"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 317,
+  "field": "Text",
+  "corrected": "Described by Nathan Rabin as a\n\"bubbly, shallow creature that exists\nsolely in the imaginations of\nsensitive writer-directors to teach\nyoung men to embrace life and its\ninfinite mysteries.\" Examples include\nNatalie Portman in Garden State\nand Zooey Deschanel in everything.",
+  "changes": [
+   {
+    "from": "Deschanel In everything",
+    "to": "Deschanel in everything",
+    "note": "capital-I for i"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 319,
+  "field": "Text",
+  "corrected": "One of the most infamous and\ndeadly culinary dishes. Known as\nFugu in Japan. Its preparation is\nstrictly controlled, because its liver,\novaries, and eyes contain fatal levels\nof tetrodotoxin. These areas must\nbe carefully removed to avoid\nasphyxiation and death.",
+  "changes": [
+   {
+    "from": "Japan. its preparation",
+    "to": "Japan. Its preparation",
+    "note": "lost capital after period"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 321,
+  "field": "Text",
+  "corrected": "A former leader for the Liberian\nwarlord Roosevelt Johnson. He\nclaimed that before battle \"we\nwould get drunk and drugged up,\nsacrifice a teenager, drink the blood,\nthen strip down to our shoes and go\ninto battle wearing colorful wigs\nand carrying imaginary purses.\"",
+  "changes": [
+   {
+    "from": "purses.•",
+    "to": "purses.\"",
+    "note": "stray • stood in for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 323,
+  "field": "Person",
+  "corrected": "Pharell's hat",
+  "changes": [
+   {
+    "from": "",
+    "to": "",
+    "note": "'Pharell' is likely 'Pharrell' (Williams) (left unchanged — confirm)"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 324,
+  "field": "Text",
+  "corrected": "A member of a music collective\nstarring a trio of humanoids played\nby musicians wearing bald caps and\nmakeup. To meet demand, dozens\nof new performers have been\nrecruited, a process satirized on the\nshow Arrested Development with\nthe would-be recruit Tobias Fünke.",
+  "changes": [
+   {
+    "from": "Tobias FOnke",
+    "to": "Tobias Fünke",
+    "note": "OCR of 'Fünke' (Arrested Development)"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 328,
+  "field": "Text",
+  "corrected": "Cofounder of the world's most\npopular social networking site before\nFacebook. He became\ninstantly recognizable because all\nusers who joined the site would\nautomatically \"friend\" him. He sold\nthe site for $580M to Rupert\nMurdoch's News Corporation.",
+  "changes": [
+   {
+    "from": "networking sitebefore",
+    "to": "networking site before",
+    "note": "words joined by scan"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 330,
+  "field": "Text",
+  "corrected": "In gay culture, a person who prefers\npenetration during intercourse,\nusually through the anus. A survey\nof nearly 56,000 profiles on\ngay.com found that 32% of us\nrespondents preferred bottom, 26%\npreferred top, and 42% preferred\nthe versatile role.",
+  "changes": [
+   {
+    "from": "",
+    "to": "",
+    "note": "'32% of us respondents' — 'us' is likely small-caps 'US' (left unchanged — confirm)"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 334,
+  "field": "Text",
+  "corrected": "A former US Congressman from\nTexas who was an important part of\nthe Republican Revolution of the\n90s and one of the co-creators of\nthe infamous Contract with\nAmerica. But for the purposes of\nthis game, he really just has a very\nfunny name.",
+  "changes": [
+   {
+    "from": "former us Congressman",
+    "to": "former US Congressman",
+    "note": "small-caps US read as us"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 336,
+  "field": "Text",
+  "corrected": "A term for a beginner or novice at\nan activity, often used in reference\nto internet activity, such as online\ngaming or computer hacking. The\nterm is spelled using leetspeak, the\nalphabet that uses alternative ASCII\ncharacters as a replacement for\nLatin letters.",
+  "changes": [
+   {
+    "from": "used In reference",
+    "to": "used in reference",
+    "note": "capital-I for i"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 340,
+  "field": "Text",
+  "corrected": "A clairvoyant Pennsylvania\ngroundhog, who uses the appearance\nof his own shadow to predict\nwhether spring will arrive early or\nwhether there will be six more\nweeks of winter. His predictions\nhave been correct 39% of the time,\nless than random guessing.",
+  "changes": [
+   {
+    "from": "wil I arrive",
+    "to": "will arrive",
+    "note": "OCR split"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 344,
+  "field": "Text",
+  "corrected": "The 3rd Vice President of the US,\nwho shot Alexander Hamilton in a\nduel. He was famously the answer to\nquestion posed in a 1993 commercial\ndirected by Michael Bay for the Got\nMilk? campaign, where a historian is\nunable to answer because his mouth\nis clogged with peanut butter.",
+  "changes": [
+   {
+    "from": "President of the us,",
+    "to": "President of the US,",
+    "note": "small-caps US"
+   },
+   {
+    "from": "mouth\nIs clogged",
+    "to": "mouth\nis clogged",
+    "note": "capital-I for i"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 351,
+  "field": "Text",
+  "corrected": "A serial murderer whose identity is\nstill unknown. His name is a\nreference to letters sent by him to\nnewspapers that included a 408-\ncharacter cipher, which he claimed\nrevealed his identity. In one possible\ndecoding, he claims that his victims\nwill be his slaves in the afterlife.",
+  "changes": [
+   {
+    "from": "slaves In the",
+    "to": "slaves in the",
+    "note": "capital-I for i"
+   },
+   {
+    "from": "afterl lfe",
+    "to": "afterlife",
+    "note": "OCR split + l"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 352,
+  "field": "Person",
+  "corrected": "E. Honda",
+  "changes": [
+   {
+    "from": "E.Honda",
+    "to": "E. Honda",
+    "note": "missing space"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 353,
+  "field": "Text",
+  "corrected": "The Fresh Prince of Bel-Air's cousin\nand Uncle Phil's heir. Played by\nAlfonso Ribeiro, he is depicted as a\npreppy young Republican, who is\nprobably best known for his spazzy\ndance to Tom Jones's song \"It's Not\nUnusual\" and being slapped on the\nback of the head.",
+  "changes": [
+   {
+    "from": "preppy yaung",
+    "to": "preppy young",
+    "note": "OCR a for o"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 355,
+  "field": "Text",
+  "corrected": "Flying, communal insects that are\nfound on every continent except\nAntarctica. They often live in large\nhives knows as colonies, with a\nqueen, workers, and drones. Many\nspecies of these produce honey,\nwhich humans harvest in a series of\nhives known as an apiary.",
+  "changes": [
+   {
+    "from": "",
+    "to": "",
+    "note": "'hives knows as colonies' likely 'known as' (left unchanged — confirm)"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 357,
+  "field": "Text",
+  "corrected": "An ancient Mesoamerican god and\nflying reptile whose name means\n\"feathered serpent.\" It has been\nclaimed since the 16th century that\nAztec leader Montezuma II believed\nthe appearance of Spanish conquistador\nHernán Cortés signaled his\nreturn.",
+  "changes": [
+   {
+    "from": "serpent.•",
+    "to": "serpent.\"",
+    "note": "stray • stood in for closing quote"
+   },
+   {
+    "from": "Hern~n Cort~s",
+    "to": "Hernán Cortés",
+    "note": "OCR ~ for accented á/é"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 359,
+  "field": "Text",
+  "corrected": "A character from the sitcom Perfect\nStrangers. He is a rustic from the\nisland of Mypos, who Cousin Larry\nacclimates to big city Chicago.\nFeatures of the character include\ncelebrating with the \"dance of joy\"\nand exclaiming \"Don't be ridiculous\"\nwhen it is he who is being ridiculous.",
+  "changes": [
+   {
+    "from": "joy•\n",
+    "to": "joy\"\n",
+    "note": "stray • = closing quote"
+   },
+   {
+    "from": "ridiculous•\n",
+    "to": "ridiculous\"\n",
+    "note": "stray • = closing quote"
+   }
+  ],
+  "uncertain": false
+ }
+]

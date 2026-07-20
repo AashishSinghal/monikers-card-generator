@@ -1,0 +1,198 @@
+[
+ {
+  "i": 241,
+  "field": "Text",
+  "corrected": "The assistant to a wizard in Disney's\nFantasia. Played by Mickey Mouse,\nhe enchants a broom to fetch water.\nUnable to control the magic, a flood\nensues. Each time he attempts to\ndestroy the broom and end the\nspell, it splits in half and continues\nits work at double pace.",
+  "changes": [{"from": "in ha If and", "to": "in half and", "note": "OCR split 'half' into 'ha If'"}],
+  "uncertain": false
+ },
+ {
+  "i": 244,
+  "field": "Text",
+  "corrected": "An idiom that describes a primate\nso powerful and heavy that it can\nignore the rights of others. The\noriginal source is a riddle that asks\nwhere it sits (A: Anywhere it wants.)\nThis term is commonly confused\nwith a similar expression about an\nelephant.",
+  "changes": [{"from": "where it sits CA:", "to": "where it sits (A:", "note": "opening parenthesis misread as 'C'; closing ')' present later"}],
+  "uncertain": false
+ },
+ {
+  "i": 245,
+  "field": "Text",
+  "corrected": "A species of Pokémon that\nresembles an orange dragon and is\nthe evolved form of Charmeleon\nand the final evolution of Charmander.\nDespite its appearance, it is a\nfire/flying type, NOT a dragon type.\nIts Japanese name is Lizardon.",
+  "changes": [{"from": "Pok~mon", "to": "Pokémon", "note": "tilde is mangled 'é'"}],
+  "uncertain": false
+ },
+ {
+  "i": 246,
+  "field": "Text",
+  "corrected": "The title character from a 1969\nnovel by Philip Roth that is told as\nan extended psychotherapy session\nby a young Jewish bachelor. The\nnovel is notorious for its description\nof this character masturbating with\na piece of raw liver, which his\nmother later serves for dinner.",
+  "changes": [{"from": "Phil Ip Roth", "to": "Philip Roth", "note": "OCR split/misread of 'Philip'"}, {"from": "that Is told", "to": "that is told", "note": "capital I for lowercase i"}],
+  "uncertain": false
+ },
+ {
+  "i": 254,
+  "field": "Text",
+  "corrected": "The co-anchor of CBS This Morning\nand Editor-at-large for O Magazine.\nShe gained notoriety for her\nlong-running relationship with a\nfamous talk show host and \"Queen\nof All Media.\" Despite being married\nto a man, there are persistent\nrumors that the two are lovers.",
+  "changes": [{"from": "for 0 Magazine", "to": "for O Magazine", "note": "zero misread for letter O (Oprah's O Magazine)"}],
+  "uncertain": false
+ },
+ {
+  "i": 255,
+  "field": "Text",
+  "corrected": "The main villain in the Masters of\nthe Universe fantasy world. He is the\narch nemesis of He-Man and is\ntypically shows with a blue\nhumanoid body, bare skull, and\npurple hood. His goal is to learn the\nsecrets of Castle Grayskull and use\nthem to conquer the land of Eternia.",
+  "changes": [{"from": "He ls the", "to": "He is the", "note": "'ls' misread for 'is'"}],
+  "uncertain": true
+ },
+ {
+  "i": 257,
+  "field": "Text",
+  "corrected": "The male version of the mythological\ncreature that is a woman from\nthe waist up but has a fish tail in\nplace of legs. Their behaviors and\nabilities range across cultures, and\ninclude having green teeth, the\nability to cure illnesses, seducing\nwomen, and holding tridents.",
+  "changes": [{"from": "that Is a woman", "to": "that is a woman", "note": "capital I for lowercase i"}],
+  "uncertain": false
+ },
+ {
+  "i": 258,
+  "field": "Text",
+  "corrected": "The 9th tlatoani of Tenochtitlan and\nruler of the Aztec Triple Alliance.\nDuring their first contact with\nEuropeans, he was killed by\nconquistador Hernan Cortes's men\nas the fled his capital. His \"revenge\"\nis a euphemism for contracting\ntraveler's diarrhea in Mexico.",
+  "changes": [{"from": "His \"revenge•", "to": "His \"revenge\"", "note": "bullet misread of closing quotation mark"}],
+  "uncertain": true
+ },
+ {
+  "i": 261,
+  "field": "Person",
+  "corrected": "The 1%",
+  "changes": [{"from": "The1%", "to": "The 1%", "note": "words wrongly joined by scan"}],
+  "uncertain": false
+ },
+ {
+  "i": 263,
+  "field": "Text",
+  "corrected": "A member of the Latter-Day Saints,\ninspired by the visions of 19th\ncentury American Joseph Smith.\nThey were once infamous for some\nmembers practicing polygamy.\nMembers taking part in endowment\nceremonies wear special underwear\ncalled \"temple garments.\"",
+  "changes": [{"from": "garments.•\"", "to": "garments.\"", "note": "stray bullet before closing quote removed"}],
+  "uncertain": false
+ },
+ {
+  "i": 273,
+  "field": "Text",
+  "corrected": "This plumber-turned-pharmacist\nand title character of this Nintendo\npuzzle series. Clearly inspired by\nTetris, the player organizes pills by\ncolor, ostensibly to eradicate viruses\nand definitely not to teach children\nhow to raid their parent's medicine\ncabinet.",
+  "changes": [{"from": "plumber-tu med-pharmacist", "to": "plumber-turned-pharmacist", "note": "OCR mangled 'turned' (rn->m plus stray space)"}],
+  "uncertain": false
+ },
+ {
+  "i": 274,
+  "field": "Text",
+  "corrected": "A plastic toy depicting a being with\ndistinctive tall, bright, and fuzzy\nhair. They were the subject of fads\nthroughout the 70s, 80s, and 90s.\nThe original version was carved by a\npoor Danish fisherman and\nwoodcutter as a Christmas gift to\nhis daughter.",
+  "changes": [{"from": "distinctive tal I,", "to": "distinctive tall,", "note": "OCR split 'tall'"}, {"from": "70s, BOs, and 90s", "to": "70s, 80s, and 90s", "note": "'80s' misread as 'BOs' (8->B, 0->O)"}],
+  "uncertain": false
+ },
+ {
+  "i": 275,
+  "field": "Text",
+  "corrected": "Useless to beat and effectively\nunrideable, this deceased animal is\nused in an idiom to explain that a\npoint, once made, does not need to\nbe re-stated. Similar the phrase, \"To\nslay the slain.\" This animal is\nsubstituted with a dog in other\nparts of the English speaking world.",
+  "changes": [{"from": "unrldeable", "to": "unrideable", "note": "'l' misread for 'i'"}, {"from": "slain.•\"", "to": "slain.\"", "note": "stray bullet before closing quote removed"}],
+  "uncertain": false
+ },
+ {
+  "i": 278,
+  "field": "Text",
+  "corrected": "A piece of raw beef worn by\n\"Mother Monster\" to the 2010 MTV\nVideo Music Awards. The pop diva\nstated that she wore the item to\nhighlight her distaste for the\nmilitary's don't-ask-don't-tell policy.\nThe item was preserved by a\ntaxidermist, who turned it into jerky.",
+  "changes": [{"from": "don't-tell pol icy", "to": "don't-tell policy", "note": "OCR split 'policy'"}],
+  "uncertain": false
+ },
+ {
+  "i": 279,
+  "field": "Text",
+  "corrected": "A smooth jazz saxophonist, who is\nuniversally reviled by jazz aficionados\nwhile simultaneously being one\nof the best selling recording artists\nof all time. Using circular breathing,\nhe set a world record for longest\nnote recorded by holding an E-flat\nfor 45 minutes and 47 seconds.",
+  "changes": [{"from": "of a II time", "to": "of all time", "note": "OCR split/misread of 'all'"}, {"from": "an E·flat", "to": "an E-flat", "note": "middle dot misread of hyphen"}],
+  "uncertain": false
+ },
+ {
+  "i": 280,
+  "field": "Text",
+  "corrected": "A singer, temporary member of\nDestiny's Child, and sister of\nBeyonce. In 2014, TMZ published\nsecurity footage of her physically\nassaulting her brother-in-law, Jay-Z,\nwho along with Beyonce, did not\nretaliate. The cause of her outburst\nremains unknown.",
+  "changes": [{"from": "Destiny's Chi Id", "to": "Destiny's Child", "note": "OCR split 'Child'"}],
+  "uncertain": false
+ },
+ {
+  "i": 281,
+  "field": "Text",
+  "corrected": "A short-snouted, brachycephalic\ndog breed. Generations of\ninbreeding have led to compact\nbreathing passages that leave them\nunable to regulate their body\ntemperature by panting. Many\nairlines have restricted their\ntransport due to in-air deaths.",
+  "changes": [{"from": "brachycephal ic", "to": "brachycephalic", "note": "OCR split 'brachycephalic'"}],
+  "uncertain": false
+ },
+ {
+  "i": 284,
+  "field": "Text",
+  "corrected": "One of the flying reindeer that pulls\nSanta's sleigh In \"The Night Before\nChristmas.\" His name is also used in\na fitness method and internet meme\nby Joanna Rohrback that is a\n\"springy, rhythmic way of moving\nforward, similar to a horse's gait and\nideally induced by elation\"",
+  "changes": [{"from": "The N lght Before", "to": "The Night Before", "note": "OCR split/misread of 'Night'"}, {"from": "Christmas.•\"", "to": "Christmas.\"", "note": "stray bullet before closing quote removed"}],
+  "uncertain": true
+ },
+ {
+  "i": 285,
+  "field": "Person",
+  "corrected": "Hal-9000",
+  "changes": [{"from": "Hal-9000", "to": "Hal-9000", "note": "flagged, left unchanged: character is commonly styled 'HAL 9000'"}],
+  "uncertain": true
+ },
+ {
+  "i": 287,
+  "field": "Person",
+  "corrected": "Chairy",
+  "changes": [{"from": "Ch airy", "to": "Chairy", "note": "OCR split 'Chairy'"}],
+  "uncertain": false
+ },
+ {
+  "i": 287,
+  "field": "Text",
+  "corrected": "An iconic characters from Pee-wee's\nPlayhouse, a live-action children's\nshow created by and starring Paul\nReubens. She is a talking and\nsinging piece of blue furniture with\nlarge eyes and a mouth between her\ncushions. She has a weirdly\nflirtatious relationship with Pee-wee.",
+  "changes": [{"from": "An iconic characters", "to": "An iconic characters", "note": "flagged, left unchanged: 'characters' possibly should be 'character'"}],
+  "uncertain": true
+ },
+ {
+  "i": 288,
+  "field": "Text",
+  "corrected": "A pachyderm that was smuggled\ninto the US to perform in the circus.\nAfter killing her trainer. she was\npublicly executed by being fed\ncarrots laced with cyanide and\nreceiving a 6,600-volt AC current.\nThe event was captured on film and\nused as a promotional stunt.",
+  "changes": [{"from": "her trainer. she was", "to": "her trainer. she was", "note": "flagged, left unchanged: period likely a comma, or 'she' should be capitalized"}],
+  "uncertain": true
+ },
+ {
+  "i": 290,
+  "field": "Text",
+  "corrected": "A missionary and Nobel Peace Prize\nwinner who claimed \"the world is\nbeing helped by the suffering of\npoor people.\" Her Home for the\nDying Destitutes in calcutta offered\nno significant medical care and only\n7% of donations to her organization\nwere directly used for charity.",
+  "changes": [{"from": "in calcutta", "to": "in calcutta", "note": "flagged, left unchanged: proper noun 'Calcutta' not capitalized"}],
+  "uncertain": true
+ },
+ {
+  "i": 292,
+  "field": "Text",
+  "corrected": "The large, mentally disabled friend\nof George In Of Mice and Men. He\nloves petting soft things, but is\nunable to control his strength,\naccidentally killing a puppy and a\nwoman. George shoots him at the\nend of the novel to protect him\nfrom an angry lynch mob.",
+  "changes": [{"from": "George In Of Mice", "to": "George In Of Mice", "note": "flagged, left unchanged: 'In' possibly should be lowercase 'in'"}],
+  "uncertain": true
+ },
+ {
+  "i": 295,
+  "field": "Person",
+  "corrected": "The Obermensch",
+  "changes": [{"from": "Obermensch", "to": "Obermensch", "note": "flagged, left unchanged: Nietzsche term is 'Übermensch/Ubermensch'"}],
+  "uncertain": true
+ },
+ {
+  "i": 296,
+  "field": "Text",
+  "corrected": "The nickname of Jeffrey Lebowski in\nthe Coen Brothers film The Big\nLebowski. Played by Jeff Bridges. he\nis depicted as an unemployed\nslacker. pacifist, and bowler who\ndrinks White Russians and listens to\nCreedence. He was based on the\nSeattle Seven member Jeff Dowd.",
+  "changes": [{"from": "an unemplayed", "to": "an unemployed", "note": "'a' misread for 'o' in 'unemployed'"}],
+  "uncertain": true
+ },
+ {
+  "i": 256,
+  "field": "Text",
+  "corrected": "The star of a viral video that shows\na high school student Imitating\nlightsaber moves using a golf ball\nretriever. The tape leaked online\nafter being left in the basement of\nhis school, leading to dozens of\nremixes featuring music and\nadvanced special effects.",
+  "changes": [{"from": "student Imitating", "to": "student Imitating", "note": "flagged, left unchanged: 'Imitating' capital I mid-sentence, possibly should be 'imitating'"}],
+  "uncertain": true
+ },
+ {
+  "i": 269,
+  "field": "Text",
+  "corrected": "One of the the three parts of\nSigmund Freud's model of the\npsyche that constitute mental life.\nThis part forms a person's ability to\npunish themself for misbehavior. It\noften draws on cultural lessons,\nacting as a source of rules from\nparents and other authority figures.",
+  "changes": [{"from": "One of the the three", "to": "One of the the three", "note": "flagged, left unchanged: duplicated 'the'"}],
+  "uncertain": true
+ }
+]

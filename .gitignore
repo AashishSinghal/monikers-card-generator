@@ -1,0 +1,14 @@
+# Commercial font — © Hoefler & Co, must NOT be redistributed. Supply your own.
+fonts/*.otf
+fonts/*.ttf
+
+# Generated preview/intermediate artifacts (regeneratable)
+out/*.html
+out/*.png
+out/fronts_test.pdf
+proof/batch_*.json
+
+# Cruft
+__pycache__/
+*.pyc
+.DS_Store

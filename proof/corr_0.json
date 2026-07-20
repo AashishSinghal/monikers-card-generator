@@ -1,0 +1,232 @@
+[
+ {
+  "i": 0,
+  "field": "Text",
+  "corrected": "An Internet meme that shows a\nShiba Inu surrounded by colorful\nComic Sans text that describes its\ninner monologue, such as \"Wow.\"\n\"Concern,\" and \"so scare.'' There is\nmuch confuse over the name's\npronunciation, yet it was recently\nused to brand a Bitcoin competitor.",
+  "changes": [
+   {"from": "Shiba lnu", "to": "Shiba Inu", "note": "lowercase l misread for capital I (Shiba Inu breed)"},
+   {"from": "Bitcoln", "to": "Bitcoin", "note": "lowercase l misread for capital I"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 3,
+  "field": "Text",
+  "corrected": "The title character from a horror\nfilm about an 18th century African\nprince turned vampire. Locked in a\ncoffin for two centuries by Count\nDracula, the box was purchased as\npart of an estate by two interior\ndecorators who accidentally set him\nloose in 70s Los Angeles.",
+  "changes": [
+   {"from": "vampire. locked", "to": "vampire. Locked", "note": "lost capital at sentence start after '. '"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 6,
+  "field": "Text",
+  "corrected": "A person who wears a full body\nanimal suit, often for conventions,\nroleplaying, or personal recreation.\nTheir use in sexual activity is a\ncontroversial topic in the community.\nIn a recent survey, 37% reported that\nit was an important part of their\ninterest in the activity.",
+  "changes": [
+   {"from": "sexua I activity", "to": "sexual activity", "note": "word wrongly split; 'l' scanned as separate 'I'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 7,
+  "field": "Text",
+  "corrected": "A prop comic famous for smashing\nwatermelons with his trademark\nSledge-O-Matic. He once sued his\nbrother for touring under the\ncomedian's name and walked out of\na Marc Maron interview when asked\nabout the use of racist, homophobic,\nand xenophobic slurs in his act.",
+  "changes": [
+   {"from": "Sledge-0-Matic", "to": "Sledge-O-Matic", "note": "digit 0 misread for letter O"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 8,
+  "field": "Text",
+  "corrected": "A Japanese competitive eater who\nshocked the world in 2001 by eating\n50 hot dogs and buns (HDB) in 12\nminutes at Nathan's Hot Dog Eating\nContest, doubling the previous\nrecord. He once lost a hot dog\neating contest (no buns) to a 1089\nlb. Kodiak bear (31-50).",
+  "changes": [
+   {"from": "(HOB)", "to": "(HDB)", "note": "standard abbreviation for Hot Dogs and Buns is HDB; D likely scanned as O"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 10,
+  "field": "Text",
+  "corrected": "Poet, author, and wife of Ted\nHughes, who was known for her\nconfessional style of poetry as well\nas her novel The Bell Jar. She had a\nhistory of depression, leading to her\nsuicide at 30 from carbon monoxide\npoisoning after sticking her head\ninto an unlit oven.",
+  "changes": [
+   {"from": "un llt oven", "to": "unlit oven", "note": "word wrongly split and 'i' scanned as 'l'"},
+   {"from": "head\nInto", "to": "head\ninto", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 12,
+  "field": "Text",
+  "corrected": "A Colombian drug lord and \"King of\nCocaine,\" who at his peak trafficked\n15 tons of the drug into the US per\nyear. He was killed by authorities in a\nfirefight in Medellín. According to a\nrecent BBC report, a number of\nhippos from his menagerie still roam\nthe Colombian countryside.",
+  "changes": [
+   {"from": "Medellfn", "to": "Medellín", "note": "accented í misread as 'f' (city is Medellín)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 13,
+  "field": "Text",
+  "corrected": "Literally \"goat sucker,\" this\nlegendary American cryptid is often\ndescribed as a reptile-like creature\nthat attacks and drinks the blood of\nsheep and other livestock. Most\nsupposed sightings have been\nattributed to dogs or wolves\nafflicted by the skin disease mange.",
+  "changes": [
+   {"from": "cryptld Is often", "to": "cryptid is often", "note": "'l' misread for 'i' in cryptid; 'Is' wrongly capitalized mid-sentence"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 19,
+  "field": "Text",
+  "corrected": "A trope first featured in a 60s sci-fi\nfilm, where Nazi scientists remove\nthis organ from the Führer's head\nand hide it in the fictional South\nAmerican country of Mandoras. The\nfilm currently holds an approval\nrating of 0% on the metareview site\nRotten Tomatoes.",
+  "changes": [
+   {"from": "FClhrer's", "to": "Führer's", "note": "'ü' misread as 'Cl' (der Führer)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 22,
+  "field": "Text",
+  "corrected": "A Marxist leader in the Cuban\nRevolution, whose rebellious image\nhas been commodified on T-shirts\nworldwide. The image, a high\ncontrast version of the Guerrillero\nHeroico photograph by Alberto\nKorda, depicts him with mustache,\nberet, and implacable expression.",
+  "changes": [
+   {"from": "rebellious Image", "to": "rebellious image", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"},
+   {"from": "Guerril lero", "to": "Guerrillero", "note": "word wrongly split"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 23,
+  "field": "Text",
+  "corrected": "A bipedal, feathered carnivore from\nthe Cretaceous Period. It is one of\nthe most well-known dinosaurs due\nto its prominent role in the 1993 film\nJurassic Park, where it was depicted\ninaccurately as large and featherless,\nbut quite accurately as a\nclever girl.",
+  "changes": [
+   {"from": "acccurately", "to": "accurately", "note": "stray extra 'c'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 25,
+  "field": "Text",
+  "corrected": "Secretary of War, 10th Chief Justice\nof the Supreme Court, and most\nobese president in US history. It is\nunclear whether the story of his\ngetting stuck in a White House\nbathtub is true, but it was confirmed\nthat on at least one occasion, he\ncaused it to overflow.",
+  "changes": [
+   {"from": "1oth", "to": "10th", "note": "letter o misread for digit 0 (Taft was 10th Chief Justice)"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 27,
+  "field": "Text",
+  "corrected": "Former KGB officer and current\nPresident of Russia. Under his rule,\nRussia has grown increasingly\nundemocratic. He cultivates a\nrugged image in state media, being\nshown riding half-dressed on\nhorseback and \"discovering\" two\nAncient Greek urns in the Black Sea.",
+  "changes": [
+   {"from": "urns In the", "to": "urns in the", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 29,
+  "field": "Text",
+  "corrected": "The subject of a 24-hour media\nfrenzy in 1987 when she fell down a\nwell, setting a precedent for how\ncable news networks cover small\nlocal tragedies. At the time,\nPresident Reagan claimed that\n\"everybody in America became\n[her] godmothers and godfathers.\"",
+  "changes": [
+   {"from": "godfathers.•\"", "to": "godfathers.\"", "note": "stray bullet character before closing quote"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 36,
+  "field": "Text",
+  "corrected": "Sometimes known as \"Blade\nRunner\" or \"the fastest man on no\nlegs,\" this sprinter became the first\ndouble leg amputee to participate\nin the Olympics. He was subsequently\ncharged with the murder of\nhis girlfriend, but maintains that he\nconfused her for an intruder.",
+  "changes": [
+   {"from": "an Intruder", "to": "an intruder", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 37,
+  "field": "Text",
+  "corrected": "A World of Warcraft player famous\nfor going AFK while his guild planned\na complicated raid, then proceeded\nto run into the encounter screaming\nhis own name and getting his\nguildmates killed. After being called\n\"stupid as hell,\" he cryptically\nreplied \"At least I have chicken.\"",
+  "changes": [
+   {"from": "going all<", "to": "going AFK", "note": "corrupted token with stray '<'; Leeroy Jenkins lore is 'going AFK'"},
+   {"from": "hel I", "to": "hell", "note": "word wrongly split; 'l' scanned as 'I'"},
+   {"from": "chicken.•\"", "to": "chicken.\"", "note": "stray bullet character before closing quote"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 39,
+  "field": "Text",
+  "corrected": "A Cuban boy who was the subject\nof an international incident when his\nrelatives attempted to keep him in\nthe US against his father's wishes\nthat he return to Cuba. A famous\nimage from the event shows an\narmed border agent discovering the\nboy cowering in a closet.",
+  "changes": [
+   {"from": "an International Incident", "to": "an international incident", "note": "mid-sentence words wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 42,
+  "field": "Text",
+  "corrected": "An actor and President of the NRA,\nwho starred in such films as The Ten\nCommandments, The Omega Man,\nand Planet of the Apes, where he\nwas known for lines such as \"Take\nyour stinking paws off me you damn\ndirty apes!\" He became a vociferous\ngun advocate in the 80s.",
+  "changes": [
+   {"from": "in the BOs", "to": "in the 80s", "note": "8 misread as B and 0 as O"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 44,
+  "field": "Text",
+  "corrected": "The internet moniker of Eduard Khil,\na Russian singer who became\nfamous when his 1976 recording of\n\"I Am Glad, 'Cause I'm Finally\nReturning Back Home\" was\nuploaded to YouTube. Khil performs\nthe song using nonsense syllable\nrather than the lyrics.",
+  "changes": [
+   {"from": "•1 Am Glad", "to": "\"I Am Glad", "note": "stray bullet was opening quote; digit 1 misread for capital I"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 47,
+  "field": "Text",
+  "corrected": "A member of a political movement\nthat believes in the common\nownership of the means of\nproduction. The concept was first\ndeveloped by the German political\nphilosopher Karl Marx and became\nthe national ideology of the Soviet\nUnion in the 20th century.",
+  "changes": [
+   {"from": "Union In the", "to": "Union in the", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 50,
+  "field": "Text",
+  "corrected": "A comedian once described by\nJerry Seinfeld as \"the Picasso of our\nprofession,\" who was famous for his\nopen discussion of race. In a well-known\nincident, while freebasing\ncocaine, he poured 151-proof rum\nover his body, lit a match, and ran\ndown the street on fire.",
+  "changes": [
+   {"from": "In a wellknown", "to": "In a well-known", "note": "hyphen lost at line break, joining 'well-known'"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 52,
+  "field": "Text",
+  "corrected": "A performer of magic acts that\noften include demonstrating\n\"impossible\" tricks to a credulous\naudience. The term was preferred\nby the character Gob Bluth in the\ntelevision series Arrested Development,\nwhose performances often\nwent horribly wrong.",
+  "changes": [
+   {"from": "Arrested Development.\nwhose", "to": "Arrested Development,\nwhose", "note": "comma misread as period (clause continues with lowercase 'whose')"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 56,
+  "field": "Text",
+  "corrected": "Olympic figure skater, professional\nboxer, sex tape star, land speed\nrecord holder for vintage gas\ncoupes, and felon. She became a\npariah after conspiring with her\nhusband, Jeff Gillooly, to break\ncompetitor Nancy Kerrigan's leg by\nwhacking it with a telescopic baton.",
+  "changes": [
+   {"from": "whacking It with", "to": "whacking it with", "note": "mid-sentence word wrongly capitalized (OCR capital-I artifact)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 57,
+  "field": "Text",
+  "corrected": "An informant or spy recruited to\nreport on a target government or\norganization from the inside. They\nare named after a small, subterranean\nspecies of mammal. The term\nwas popularized by John Le Carre in\nTinker, Tailor, Soldier, Spy, but was\nfirst used by Francis Bacon in 1626.",
+  "changes": [
+   {"from": "They\na re named", "to": "They\nare named", "note": "word 'are' wrongly split"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 58,
+  "field": "Text",
+  "corrected": "The \"artist formerly known as,\" who\nreleased Purple Rain and the\nBatman soundtrack. In 2011, the\nwebsite Heavy Table published\nillustrations of his refrigerator, which\ncontained 5 pounds of Dunk-a-roos,\n18 varieties of mustard, Braunschweiger,\nand a quart of Yak's milk.",
+  "changes": [
+   {"from": "contained S pounds", "to": "contained 5 pounds", "note": "letter S misread for digit 5"}
+  ],
+  "uncertain": true
+ }
+]

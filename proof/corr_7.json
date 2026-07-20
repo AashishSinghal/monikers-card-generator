@@ -1,0 +1,210 @@
+[
+ {
+  "i": 420,
+  "field": "Text",
+  "corrected": "An American novelist, playwright,\nand Princeton professor. Her works\nin \"In a Region of Ice\" and \"A\nGarden of Earthly Delights\" and\nnearly 40 other novels. Born in 1938,\nshe still writes in longhand and her\nproductivity and discipline are\nlegendary among writers.",
+  "changes": [
+   {"from": "In a Region of Ice•", "to": "In a Region of Ice\"", "note": "• is OCR artifact for closing quote"},
+   {"from": "she stil I writes", "to": "she still writes", "note": "wrongly split word; capital I for l"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 421,
+  "field": "Text",
+  "corrected": "A composer and conductor known\nas \"The March King.\" He created\nmany marches still in use today, such\nas \"The Stars and Stripes Forever.\"\nHe also designed a large brass\ninstrument that wraps around the\nbody of the musician, which he\nnamed after himself.",
+  "changes": [
+   {"from": "The March King.•", "to": "The March King.\"", "note": "• is OCR artifact for closing quote"},
+   {"from": "Stars and Stripes Forever.•", "to": "Stars and Stripes Forever.\"", "note": "• is OCR artifact for closing quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 423,
+  "field": "Text",
+  "corrected": "A legendary 19th century mountain\nman, who was famous for fighting\nand capturing bears. During a \"play\nfight\" with one of his bears, his scalp\nwas dislodged, leaving the brain\ntissue permanently exposed. He died\nafter a monkey bit into the open\nwound, causing an infection.",
+  "changes": [
+   {"from": "causing an Infection.", "to": "causing an infection.", "note": "erroneous capital I mid-sentence"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 424,
+  "field": "Text",
+  "corrected": "The medical term for Gaëtan Dugas,\na Canadian flight attendant who was\namong a group of homosexual men\nthat traveled widely and were very\nsexually active, facilitating the early\nspread of the virus. This term now\nrefers to the first case of a condition\nmore generally.",
+  "changes": [
+   {"from": "Gai!tan Dugas", "to": "Gaëtan Dugas", "note": "diacritic mangled by OCR; real name Gaëtan"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 426,
+  "field": "Text",
+  "corrected": "A person who assumes the persona\nof a character in a fictional setting,\noften created by them. The concept\nwas inspired by Dungeons &\nDragons and other early roleplaying\ngames, but spans genres from high\nfantasy to steampunk to zombie\napocalypse.",
+  "changes": [
+   {"from": "In a fl ct Iona I setting", "to": "in a fictional setting", "note": "garbled OCR of 'fictional'; erroneous capital I"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 428,
+  "field": "Text",
+  "corrected": "The fictional mascot of the National\nFederation of Coffee Growers of\nColombia. With his mule Conchita,\nhe is a national symbol for Colombian\ncoffee. Played by Carlos Sánchez\nand others, his tagline, ¡Disfrute de\nun buen cafe! has been widely\nparodied in pop culture.",
+  "changes": [
+   {"from": "Carlos Sclinchez", "to": "Carlos Sánchez", "note": "garbled OCR of actor name Sánchez"},
+   {"from": "iDisfrute", "to": "¡Disfrute", "note": "leading 'i' is OCR of inverted exclamation ¡"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 433,
+  "field": "Text",
+  "corrected": "An artist known for her physically\ndemanding performance pieces. In\nThe Artist is Present, she sat staring\nat museumgoers silently for two\nmonths. Over her career, she has\nbeen groped, scalded, nearly\nstabbed, nearly raped, and nearly\nshot during performances.",
+  "changes": [
+   {"from": "shot durl ng performances", "to": "shot during performances", "note": "wrongly split; capital I for i"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 435,
+  "field": "Text",
+  "corrected": "The subject of a prolonged legal\ncase over whether to terminate life\nsupport. Diagnosed as being in a\npersistent vegetative state by her\ndoctors, her husband and parents\nbattled over whether to remove her\nfeeding tube, despite her having\nsigned a \"do not resuscitate\" order.",
+  "changes": [
+   {"from": "terminate I lfe", "to": "terminate life", "note": "garbled OCR of 'life'"},
+   {"from": "husband and pa rents", "to": "husband and parents", "note": "wrongly split word"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 436,
+  "field": "Text",
+  "corrected": "A gag name that references female\ngenitalia, used to trick a person into\nsaying it without knowledge of the\ndouble meaning. While popularized\nby the film Porky's, its first use was\nby Jim Davidson & John Elmo in\ntheir series of prank calls to Jersey\nCity's Tube Bar in the 70s.",
+  "changes": [
+   {"from": "trick a person Into", "to": "trick a person into", "note": "erroneous capital I mid-sentence"},
+   {"from": "prank cal Is to", "to": "prank calls to", "note": "garbled OCR of 'calls'"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 439,
+  "field": "Text",
+  "corrected": "An R&B musician who recorded \"I\nBelieve I Can Fly\" and \"Trapped in\nthe Closet.\" In 2002, a video leaked\nof him allegedly urinating on an\nunderage girl, according a 21-count\nindictment. He was found not guilty,\nthough many still believe him to be\na sexual predator.",
+  "changes": [
+   {"from": "the Closet.•", "to": "the Closet.\"", "note": "• is OCR artifact for closing quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 441,
+  "field": "Text",
+  "corrected": "The Maid of Orléans and 15th\ncentury martyr who claimed God\ninstructed her to take back France\nfrom the English. After predicting\nseveral military outcomes, she was\ngiven a substantial role in strategic\ndecision-making. She was eventually\ncaptured and burned at the stake.",
+  "changes": [
+   {"from": "The Maid of Orll!ans", "to": "The Maid of Orléans", "note": "diacritic mangled by OCR; real name Orléans"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 447,
+  "field": "Text",
+  "corrected": "A thought experiment where this\nfeline is both alive and dead due to\nquantum entanglement. It was\noriginally used to critique an\ninterpretation of quantum mechanics,\nbut now appears often in\npopular culture, ranging from A\nSerious Man to Yu-Gi-Oh! GX.",
+  "changes": [
+   {"from": "Vu-Gi-Ohl GX", "to": "Yu-Gi-Oh! GX", "note": "V for Y OCR misread; 'Ohl' is 'Oh!'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 448,
+  "field": "Text",
+  "corrected": "The eponymous host of a children's\nscience show, who Bill Nye credited\nwith creating a generation of US\nscientists. A popular YouTube\nsupercut shows him being \"a dick\" to\nkids on the show, sarcastically asking\nquestions like \"Haven't you ever seen\na sliced banana before?\"",
+  "changes": [
+   {"from": "A popular VouTube", "to": "A popular YouTube", "note": "V for Y OCR misread"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 449,
+  "field": "Text",
+  "corrected": "The moniker of Paul \"Yosemitebear\"\nVasquez, a one-time MMA fighter\n(0-1) and YouTube star who reacts\nto prismatic light, noting that there\nare two of them and that they are\n\"so intense.\" As he breaks down into\ntears he asks \"What does this\nmean?\"",
+  "changes": [
+   {"from": "Paul \"Vosemitebear\"", "to": "Paul \"Yosemitebear\"", "note": "V for Y OCR misread"},
+   {"from": "and VouTube star", "to": "and YouTube star", "note": "V for Y OCR misread"},
+   {"from": "prismatic I ight", "to": "prismatic light", "note": "garbled OCR of 'light'"},
+   {"from": "•so intense.•", "to": "\"so intense.\"", "note": "• is OCR artifact for quote marks"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 456,
+  "field": "Text",
+  "corrected": "The internet name for Tardar Sauce,\na feline who gained celebrity due to\nher permanently negative expression.\nHer owner attributes her\nappearance to feline dwarfism as\nwell as an underbite. In 2013, she\nappeared on the front pages of The\nWall Street Journal & NY Magazine.",
+  "changes": [
+   {"from": "NV Magazine", "to": "NY Magazine", "note": "V for Y OCR misread"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 461,
+  "field": "Text",
+  "corrected": "A humanoid common in conspiracy\ntheories about a race of shapeshifting\nlizard people who control\ngovernments around the world. On\na 2011 radio show, Louis C.K. once\nrepeatedly asked former US\nSecretary of Defense Donald\nRumsfeld if he was one of these.",
+  "changes": [
+   {"from": "former us", "to": "former US", "note": "lost capitalization of US"},
+   {"from": "Rumsfeld lf he", "to": "Rumsfeld if he", "note": "'lf' is OCR of 'if'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 463,
+  "field": "Text",
+  "corrected": "An internet catchphrase that signals\na person being like one of these,\nnormally used after completing an\nactivity with particular skill. The\nterm originated in a song by Slim\nThug and was featured in a\nsubsequent parody version from the\ncomedy group The Lonely Island.",
+  "changes": [
+   {"from": "that signa Is", "to": "that signals", "note": "garbled OCR of 'signals'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 466,
+  "field": "Text",
+  "corrected": "An overweight comedian known for\nhis iconic roles on TV and film. He\nportrayed a guy who \"lives in a van\ndown by the river,\" a \"fat guy in a\nlittle coat,\" and sometimes just a\nguy who falls down and breaks\nthings. He died of a cocaine and\nmorphine overdose at 33.",
+  "changes": [
+   {"from": "little coat,»", "to": "little coat,\"", "note": "» is OCR artifact for closing quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 468,
+  "field": "Text",
+  "corrected": "A cat celebrity known for her\n\"perma-kitten\" appearance, whose\ntongue hangs out because of a\nshort lower jaw and toothlessness.\nHer appetite is unaffected. Her\nowner, Mike, studied reiki to care for\nher and calls her \"a fantastic\nwaddler.\"",
+  "changes": [
+   {"from": "her and cal Is her", "to": "her and calls her", "note": "garbled OCR of 'calls'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 470,
+  "field": "Text",
+  "corrected": "A 2010 meme based on a photo of\nthe actor known for his starring\nroles in Speed, Point Break, The\nMatrix, and other blockbusters. He is\nshown sitting on a bench by himself,\neating a sandwich, and looking\nforlorn. The action figure of this\ncomes in two sizes: Teeny and Little.",
+  "changes": [
+   {"from": "The\nMatrhc, and", "to": "The\nMatrix, and", "note": "garbled OCR of 'Matrix'"},
+   {"from": "comes In two", "to": "comes in two", "note": "erroneous capital I mid-sentence"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 471,
+  "field": "Text",
+  "corrected": "The title character of the cult classic\nTV show starring New Zealand actor\nLucy Lawless. The show was a\nspinoff of Hercules: The Legendary\nJourneys and featured her weekly\nadventures and pursuit of the\n\"greater good\" in a mythological\nversion of Ancient Greece.",
+  "changes": [
+   {"from": "«greater good\"", "to": "\"greater good\"", "note": "« is OCR artifact for opening quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 474,
+  "field": "Text",
+  "corrected": "A Supreme Court Justice known for\nher advocacy for women's rights\nand collection of jabots, a lace neck\nruffle. She has a fervid online\nfollowing, with tumblrs dedicated to\nimages of her with captions such as\n\"Notorious\" and \"All them fives\nneed to listen when a ten is talking.\"",
+  "changes": [
+   {"from": "\"Notorious• and «All them", "to": "\"Notorious\" and \"All them", "note": "• and « are OCR artifacts for quote marks"}
+  ],
+  "uncertain": false
+ }
+]

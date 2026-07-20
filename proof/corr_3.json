@@ -1,0 +1,170 @@
+[
+ {
+  "i": 180,
+  "field": "Text",
+  "corrected": "A man-eating great white that\nterrorizes the town of Amity Island\nin a film by Steven Spielberg. Not\nseen until well into the film, it is so\nlarge that Roy Scheider's character\nsuggests the crew is \"gonna need a\nbigger boat.\" It was nicknamed\nBruce after Spielberg's lawyer.",
+  "changes": [{"from": "bigger boat.•", "to": "bigger boat.\"", "note": "bullet char is OCR misread of closing quotation mark"}],
+  "uncertain": false
+ },
+ {
+  "i": 183,
+  "field": "Text",
+  "corrected": "Meaning \"lizard king,\" this species of\nbipedal carnivore lived in western\nNorth America during the\nCretaceous Period. They are the\nmost widely known dinosaur in the\nworld due to their adorably tiny\narms and footsteps that vibrate\ncups of water.",
+  "changes": [{"from": "lived ln western", "to": "lived in western", "note": "lowercase l misread for i in 'in'"}],
+  "uncertain": false
+ },
+ {
+  "i": 190,
+  "field": "Text",
+  "corrected": "A musician whose decadent,\ndrug-fueled lifestyle is frequently\nparodied, notably in several \"True\nHollywood Stories\" on The\nChappelle Show. The popularity of\ndepictions of his cocaine habits and\nuse of the word \"bitch\" contributed\nto Chappelle leaving the show.",
+  "changes": [{"from": "Hollywood Stories•", "to": "Hollywood Stories\"", "note": "bullet char is OCR misread of closing quotation mark"}],
+  "uncertain": false
+ },
+ {
+  "i": 191,
+  "field": "Text",
+  "corrected": "The stage name of Jerome\nSilberman, who is best known for\nhis collaboration with Mel Brooks in\nBlazing Saddles, The Producers, and\nother films. An image of him in Willy\nWonka & the Chocolate Factory is\nused in the popular Condescending\nWonka caption online.",
+  "changes": [{"from": "caption onllne.", "to": "caption online.", "note": "double l misread; should be 'li' in 'online'"}],
+  "uncertain": false
+ },
+ {
+  "i": 192,
+  "field": "Text",
+  "corrected": "A human who transforms into a\nhirsute, bloodthirsty creature.\nKnown as lycanthropy, this change\nis often triggered by a full moon.\nSuspected lycanthropes were\npersecuted in early modern Europe,\nand are now a staple figure in pop\nculture and party games.",
+  "changes": [{"from": "a fu II moon", "to": "a full moon", "note": "'full' split, ll misread as II"}],
+  "uncertain": false
+ },
+ {
+  "i": 198,
+  "field": "Text",
+  "corrected": "Popularly, someone who believes in\nnothing. As a philosophical concept,\na person who believes that major\naspects of life or human inquiry are\neither not valid or do not exist. They\nare often portrayed as effete\nintellectuals, such as the wimpy\nGerman thugs in The Big Lebowski.",
+  "changes": [{"from": "thugs In The", "to": "thugs in The", "note": "spurious capital I on 'in'"}, {"from": "Lebowskl.", "to": "Lebowski.", "note": "trailing l misread for i"}],
+  "uncertain": true
+ },
+ {
+  "i": 199,
+  "field": "Text",
+  "corrected": "A 19th century railroad worker and\nfrequent citation in undergraduate\npsychology papers. His left frontal\nlobe was severely damaged\nfollowing an explosion that drove an\niron spike through his skull. The\ndamage resulted in a radical change\nin his personality and behavior.",
+  "changes": [{"from": "In his", "to": "in his", "note": "spurious capital I on 'in'"}],
+  "uncertain": true
+ },
+ {
+  "i": 200,
+  "field": "Text",
+  "corrected": "A Mexican actor who played Khan\nNoonien Singh in the original Star\nTrek series and Star Trek II: The\nWrath of Khan. He was also known\nfor his endorsement of the Chrysler\nCordoba, where he praised the\n\"tastefulness of its appearance\" and\nits \"soft Corinthian leather.\"",
+  "changes": [{"from": "C6rdoba", "to": "Cordoba", "note": "digit 6 misread for o (Chrysler Cordoba)"}, {"from": "•tastefulness of its appearance•", "to": "\"tastefulness of its appearance\"", "note": "bullet chars are OCR misreads of quotation marks"}, {"from": "Its \"soft", "to": "its \"soft", "note": "spurious capital I on 'its'"}, {"from": "Corl nth Ian", "to": "Corinthian", "note": "'Corinthian' broken into pieces with l/I misreads"}, {"from": "leather.•", "to": "leather.\"", "note": "bullet char is OCR misread of closing quote"}],
+  "uncertain": true
+ },
+ {
+  "i": 201,
+  "field": "Text",
+  "corrected": "A stock, semi-anonymous character\nwho is introduced only to die soon\nafter. The term derives from the\ncostumes worn by extras in the\noriginal Star Trek television series\nwho would accompany the lead\nactors to a hostile situation and be\nkilled in order to heighten tension.",
+  "changes": [{"from": "who Is Introduced", "to": "who is introduced", "note": "spurious capitals on 'is' and 'introduced'"}],
+  "uncertain": true
+ },
+ {
+  "i": 202,
+  "field": "Text",
+  "corrected": "Widely known as the voice of nature\ndocumentaries, he is considered a\nnational treasure in the UK (though\nhe rejects the term). He is so\nbeloved that his replacement with\nSigourney Weaver as the narrator in\nthe American version of Planet\nEarth caused protests online.",
+  "changes": [{"from": "protests on line.", "to": "protests online.", "note": "'online' wrongly split into two words"}],
+  "uncertain": true
+ },
+ {
+  "i": 204,
+  "field": "Text",
+  "corrected": "One of the three parts of\nSigmund Freud's model of the\npsyche that constitute mental life.\nThis part contains a person's\ninstincts and is the source of our\nimpulse for sex and aggression. In\nadult life it becomes the most dark,\ninaccessible aspect of personality.",
+  "changes": [{"from": "One of the the three", "to": "One of the three", "note": "duplicated word 'the'"}, {"from": "Th is part", "to": "This part", "note": "'This' wrongly split"}],
+  "uncertain": true
+ },
+ {
+  "i": 207,
+  "field": "Text",
+  "corrected": "A character from a famous limerick\nthat references an island 30 miles\nsouth of Cape Cod. The limerick\ndescribes this person as being\nparticularly well-endowed, with the\nmost popular rhyming couplet\nbeing \"Whose dick was so long he\ncould suck it.\"",
+  "changes": [{"from": "could suck It.•", "to": "could suck it.\"", "note": "spurious capital I on 'it'; bullet is OCR misread of closing quote"}],
+  "uncertain": true
+ },
+ {
+  "i": 208,
+  "field": "Text",
+  "corrected": "America's greatest chess player and\none of its most famous racists. He\ndefeated Boris Spassky in 1971 to\nbecome world champion. A recluse,\nhe returned to the public eye in the\n90s to invent a new Chess timing\nsystem and to be a public anti-Semite\nbefore dying in Iceland in 2008.",
+  "changes": [{"from": "dying In Iceland In 2008", "to": "dying in Iceland in 2008", "note": "spurious capital I on both 'in'"}],
+  "uncertain": true
+ },
+ {
+  "i": 209,
+  "field": "Text",
+  "corrected": "The disgraced mayor of Toronto\nwho confessed to smoking crack\n\"probably in one of my drunken\nstupors.\" Responding to allegations\nof sexual harassment, he said, \"It\nwas said I want to eat her pussy. I\nwould never do that. I've got more\nthan enough to eat at home.\"",
+  "changes": [{"from": "to al legations", "to": "to allegations", "note": "'allegations' wrongly split"}],
+  "uncertain": false
+ },
+ {
+  "i": 216,
+  "field": "Text",
+  "corrected": "From a hypothetical scenario that\nposes the question of who would\nwin in a fight: a single equine-sized\nfowl or fivescore fowl-sized equines.\nThe question was made famous in a\n2012 Reddit AMA with President\nBarack Obama. The comment\nreceived over 1,000 upvotes.",
+  "changes": [{"from": "who wou Id", "to": "who would", "note": "'would' split, I misread for l"}],
+  "uncertain": false
+ },
+ {
+  "i": 220,
+  "field": "Text",
+  "corrected": "A Danish noble and astronomer. At\n20, he lost part of his nose in a duel\nand wore a replacement made of\nsilver and gold. He owned a pet elk\nand hired a psychic dwarf named\nJepp. He is rumored to have died\nfrom refusing to leave a banquet to\nurinate, because etiquette.",
+  "changes": [{"from": "part of h ls nose In a duel", "to": "part of his nose in a duel", "note": "'his' split with l/i misread; spurious capital I on 'in'"}],
+  "uncertain": true
+ },
+ {
+  "i": 226,
+  "field": "Text",
+  "corrected": "An American artist and self described\n\"best totally unknown painter in the\nworld.'' His improvisational style was\npraised by modernist contemporaries,\nincluding Andrew Wyeth. Like his\nbeloved jazz, Hamilton believed \"the\npicture makes itself. When I'm finished,\nI don't know how the hell I did it.''",
+  "changes": [{"from": "painter In the", "to": "painter in the", "note": "spurious capital I on 'in'"}],
+  "uncertain": true
+ },
+ {
+  "i": 227,
+  "field": "Text",
+  "corrected": "The subject of an often imitated,\nnever duplicated YouTube video of\na prairie dog turning its head while\nthe camera zooms in and the music\nfrom Young Frankenstein plays. The\nclip is frequently modified to show\nthe prairie dog wearing costumes or\nbeing caught viewing elicit material.",
+  "changes": [{"from": "elicit material", "to": "elicit material", "note": "'elicit' possibly should be 'illicit', but may be source's own wording; left unchanged"}],
+  "uncertain": true
+ },
+ {
+  "i": 232,
+  "field": "Text",
+  "corrected": "The title character from a short\nstory by Herman Melville, who is\nemployed to copy legal documents\nby hand. After gaining a reputation\nas a hard worker, he unexpectedly\nrefuses to do any further work,\ninstead repeating \"I would prefer\nnot to\" to all requests.",
+  "changes": [{"from": "to al I requests.", "to": "to all requests.", "note": "'all' split, I misread for l"}],
+  "uncertain": false
+ },
+ {
+  "i": 233,
+  "field": "Text",
+  "corrected": "A newscaster who falls from a\nplatform after attempting to cheat\nduring a light-hearted segment at\nChateau Elan Winery. After falling\nout of frame, she is heard off\ncamera making strange noises and\nsaying, \"ow ow OW ... STOP STOP ...\nOOH OOH OOH .. .I can't breathe.\"",
+  "changes": [{"from": "saying, ·ow", "to": "saying, \"ow", "note": "middle-dot char is OCR misread of opening quotation mark"}],
+  "uncertain": false
+ },
+ {
+  "i": 235,
+  "field": "Text",
+  "corrected": "One of Jesus's twelve apostles, who\nbetrayed him for 30 pieces of silver.\nHe famously revealed Jesus's\nidentity to Roman soldiers by giving\nhim a kiss, and his name is now\nsynonymous with betraying a\nperson or even an abstract set of\nideals.",
+  "changes": [{"from": "Ideals.", "to": "ideals.", "note": "spurious capital I on 'ideals'"}],
+  "uncertain": true
+ },
+ {
+  "i": 237,
+  "field": "Text",
+  "corrected": "The name of Apple's personal\nassistant on iOS operation system\nthat interacts with users through\nnatural language. It has spawned a\npopular Tumblr consisting of ironic\ninteractions, such as the search \"I\nhave a gambling addiction\"\nreturning a list of nearby casinos.",
+  "changes": [{"from": "on IOS operation", "to": "on iOS operation", "note": "'iOS' miscapitalized as IOS"}, {"from": "addiction•", "to": "addiction\"", "note": "bullet char is OCR misread of closing quote"}],
+  "uncertain": true
+ },
+ {
+  "i": 238,
+  "field": "Text",
+  "corrected": "The former Prime Minister of Italy,\nowner of A.C. Milan, and serial tax\nevader. He is notorious for soliciting\nprostitutes and for organizing a\ntype of orgy known as a \"bunga\nbunga,\" it is rumored that the\nconcept was introduced to him by\nLibyan dictator, Muammar Gaddafi.",
+  "changes": [{"from": "bunga,\" It is rumored", "to": "bunga,\" it is rumored", "note": "spurious capital I on 'it' following comma"}],
+  "uncertain": true
+ },
+ {
+  "i": 239,
+  "field": "Text",
+  "corrected": "The founder of the Silk Road, the\n\"amazon.com of illegal drugs.\" His\nidentity remains a mystery, though\nthe name suggests it belongs to\nmultiple people, since it was lifted\nfrom a character in The Princess\nBride, where a mythical brigand is\nactually a series of individuals.",
+  "changes": [{"from": "in the The Princess", "to": "in The Princess", "note": "duplicated article 'the'"}, {"from": "brigand Is", "to": "brigand is", "note": "spurious capital I on 'is'"}],
+  "uncertain": true
+ }
+]

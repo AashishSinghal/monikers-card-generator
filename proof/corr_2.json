@@ -1,0 +1,172 @@
+[
+ {
+  "i": 121,
+  "field": "Text",
+  "corrected": "A member of a Nepalese ethnic\ngroup that resides in the Himalayan\nmountain range. The term often\nrefers to guides who assist climbers.\nAmong the most famous of these in\nhistory was Tenzing Norgay, who\nreached the summit of Mount\nEverest with Edmund Hillary in 1953.",
+  "changes": [
+   {"from": "resides In the", "to": "resides in the", "note": "Capital I misread for lowercase i mid-sentence"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 123,
+  "field": "Text",
+  "corrected": "The subject of a famous internet\nphoto showing a feline peeking out\nof a hole and, allegedly, \"watching\nyou masturbate.\" In 2010, a Redditor\nindicated that the hole was actually\nin a wall, claiming \"This changes\neverything.\" The feline is said to\nhave a rival in the basement.",
+  "changes": [
+   {"from": "masturbate.•", "to": "masturbate.\"", "note": "Bullet artifact for closing double-quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 127,
+  "field": "Text",
+  "corrected": "The 1st President of the US. John\nAdams claimed that his famed\ntoothlessness was the result of\ncracking Brazil nuts. His false teeth\nwere not made of wood, but\nhippopotamus and elephant ivory.\nHe had a previous pair most likely\nmade from, no joke, slave teeth.",
+  "changes": [
+   {"from": "of the us.", "to": "of the US.", "note": "OCR lowercased the acronym US"},
+   {"from": "no Joke,", "to": "no joke,", "note": "Capital J misread for lowercase j mid-sentence"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 128,
+  "field": "Text",
+  "corrected": "An Irish performer who came to\nprominence during the intermission\nof the 1994 Eurovision Song\nContest. His show, Riverdance,\nmelded tapping with Irish folk\ntraditions, following his quest to\ndefeat the dark lord Don Dorcha\nfrom destroying Planet Ireland.",
+  "changes": [
+   {"from": "1994 Eu rovision Song", "to": "1994 Eurovision Song", "note": "Word wrongly split by scan"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 129,
+  "field": "Text",
+  "corrected": "A shock site linking unsuspecting\nvictims to the file hello.jpg, an\nimage of a naked man stretching his\nanus several inches in diameter. The\nman's wedding band is clearly\nvisible on his left ring finger. The site\nused the rare top-level domain for\nthe Christmas Islands, .cx.",
+  "changes": [
+   {"from": "hello.Jpg", "to": "hello.jpg", "note": "Capital J misread for lowercase j in file extension"},
+   {"from": ", .ex.", "to": ", .cx.", "note": "Christmas Island TLD is .cx; c misread as e"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 138,
+  "field": "Text",
+  "corrected": "A celebrity chef and former Food\nNetwork personality, who has\nreceived criticism for the excessive\nuse of fat, salt, and sugar in her\nrecipes. She was sued in 2013 for\nracial and sexual discrimination,\nsuch as using derogatory remarks\ntoward African Americans.",
+  "changes": [
+   {"from": "fat, sa It, and", "to": "fat, salt, and", "note": "'salt' wrongly split and lt misread as 'It'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 142,
+  "field": "Text",
+  "corrected": "The wealthiest artist in the world,\nwho is best known for selling a huge\ndead tiger shark preserved in\nformaldehyde for more than $8M.\nHe once argued that the 9/11\nterrorists \"need congratulating\" for\n\"achieving something which nobody\nwould have thought possible.\"",
+  "changes": [
+   {"from": "congratulating• for", "to": "congratulating\" for", "note": "Bullet artifact for closing double-quote"},
+   {"from": "possible.•", "to": "possible.\"", "note": "Bullet artifact for closing double-quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 144,
+  "field": "Text",
+  "corrected": "A legendary actor, who portrayed\nclassic characters such as Captain\nKirk, TJ Hooker, the guy who saw a\nplane gremlin on The Twilight Zone,\nand the Priceline Negotiator. He also\nhas a musical career that began\nwith a spoken word performance of\nElton John's \"Rocket Man.\"",
+  "changes": [
+   {"from": "A legendary actor. who", "to": "A legendary actor, who", "note": "Comma misread as period (lowercase word follows)"},
+   {"from": "TJ Hooker. the", "to": "TJ Hooker, the", "note": "Comma misread as period (lowercase word follows)"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 146,
+  "field": "Text",
+  "corrected": "An orca at Seaworld who raised\nquestions about animal captivity by\nkilling 3 people. In 2010, Motley\nCrue founder Tommy Lee wrote to\nSeaworld's president stating that he\nknew humans still \"get into the pool\nand masturbate him with a cow's\nvagina filled with hot water.\"",
+  "changes": [
+   {"from": "MOtley\nCrue", "to": "Motley\nCrue", "note": "Capital O misread for lowercase o"},
+   {"from": "hot water.•", "to": "hot water.\"", "note": "Bullet artifact for closing double-quote"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 150,
+  "field": "Text",
+  "corrected": "A character from a nursery rhyme\nwho falls off a wall and can't be put\nback together again. Typically\nportrayed as a humanoid egg,\nscholars have speculated that he\nrepresents Richard III, the\nhumpback king who was defeated\nat Bosworth Field by Henry VII.",
+  "changes": [
+   {"from": "Richard 111,", "to": "Richard III,", "note": "Digits 111 misread for Roman numeral III"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 153,
+  "field": "Text",
+  "corrected": "The debonair, bipedal ungulate and\nmascot for an R.J. Reynolds brand\nof cigarettes. When internal\ndocuments demonstrated that the\ncompany was targeting children as\nfuture smokers, the character was\nretired and replaced with a more\ntraditional quadruped in 1997.",
+  "changes": [
+   {"from": "When interna I\ndocuments", "to": "When internal\ndocuments", "note": "'internal' wrongly split, l misread as I"},
+   {"from": "quadruped In 1997", "to": "quadruped in 1997", "note": "Capital I misread for lowercase i"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 154,
+  "field": "Text",
+  "corrected": "The title character from the 1993\nfilm about a young boy's attempts\nto rescue a killer whale from its\ncruel life as an amusement park\nattraction. At the film's conclusion,\nhe flees a whaling ship by jumping\nover a rock embankment and\nreturns to his family.",
+  "changes": [
+   {"from": "the 1gg3\nfilm", "to": "the 1993\nfilm", "note": "Digits 99 misread as gg"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 159,
+  "field": "Person",
+  "corrected": "Kim Jong-il",
+  "changes": [
+   {"from": "Kim Jong-ii", "to": "Kim Jong-il", "note": "Final lowercase l misread as i"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 162,
+  "field": "Text",
+  "corrected": "The host of the quiz show Jeopardy!\nfor thirty years and counting. He has\nappeared self-deprecatingly as a\nversion of himself in films and TV\nshows, including Seinfeld and Short\nCuts. For the purposes of this card,\nhe still has really great facial hair on\nhis upper lip.",
+  "changes": [
+   {"from": "upper llp.", "to": "upper lip.", "note": "'lip' misread as 'llp'"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 168,
+  "field": "Text",
+  "corrected": "A performer, civil rights activist, and\nthe first black woman to star in a\nmajor film. She only performed for\nintegrated audiences, though many\nof her acts, such as the exotic Danse\nSauvage wearing a banana skirt,\nstrike a contemporary viewer as still\npretty messed up racially.",
+  "changes": [
+   {"from": "as sti II\npretty", "to": "as still\npretty", "note": "'still' wrongly split, ll misread as II"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 174,
+  "field": "Person",
+  "corrected": "Tom Selleck's\nmustache",
+  "changes": [
+   {"from": "Tom Selleck,s", "to": "Tom Selleck's", "note": "Apostrophe misread as comma"}
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 174,
+  "field": "Text",
+  "corrected": "The facial hair of this American\nactor and 80s style icon. He is most\nfamous for his title role in Magnum,\nP.I. as well as appearances in films\nsuch as Three Men and a Baby and\nMr. Baseball. In addition to his upper\nlip decoration, his signature look\nincluded colorful Hawaiian shirts.",
+  "changes": [
+   {"from": "and sos style Icon.", "to": "and 80s style icon.", "note": "'80s' misread as 'sos'; capital I misread for lowercase i"},
+   {"from": "Icon. He Is most", "to": "icon. He is most", "note": "Capital I misread for lowercase i"}
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 178,
+  "field": "Text",
+  "corrected": "An actor best known for the game\nbased on six degrees of separation\nthat bears his name, e.g. André the\nGiant and Christopher Guest\nappeared in The Princess Bride;\nChristopher Guest and this actor\nappeared in A Few Good Men; thus\nAndré the Giant's number is 2).",
+  "changes": [
+   {"from": "e.g. Andr~ the", "to": "e.g. André the", "note": "Tilde artifact for accented e (é)"},
+   {"from": "thus\nAndr~ the", "to": "thus\nAndré the", "note": "Tilde artifact for accented e (é)"}
+  ],
+  "uncertain": false
+ }
+]

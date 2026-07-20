@@ -1,0 +1,184 @@
+[
+ {
+  "i": 62,
+  "field": "Text",
+  "corrected": "A wartime diarist and Holocaust\nvictim. After visiting the famous site\nwhere her family hid from the Nazis\nfor nearly two years, the pop star\nJustin Bieber wrote, \"Truly inspiring\nto be able to come here. Anne was a\ngreat girl. Hopefully she would have\nbeen a belieber.\"",
+  "changes": [{"from": "two yea rs", "to": "two years", "note": "stray space split inside word"}],
+  "uncertain": false
+ },
+ {
+  "i": 63,
+  "field": "Text",
+  "corrected": "An IBM computer that defeated\nchess champion Garry Kasparov 2-1,\nwith 3 draws. Kasparov demanded a\nrematch after accusing IBM of\ncheating. They declined and\ndecommissioned it following the\nmatch. Due to its small sample size,\nit does not have an ELO rating.",
+  "changes": [{"from": "size,\nIt does", "to": "size,\nit does", "note": "mid-sentence 'it' wrongly capitalized (i misread as I)"}],
+  "uncertain": false
+ },
+ {
+  "i": 67,
+  "field": "Text",
+  "corrected": "The hero and title character of an\n80s arcade game, where he\nnavigates mazes and eats pellets.\npower pellets, and fruit while\navoiding ghosts. One of gaming's\nearliest breakout stars, he was soon\nusurped by his female counterpart\nin a far superior sequel.",
+  "changes": [{"from": "an\nBOs arcade", "to": "an\n80s arcade", "note": "'80s' misread as 'BOs' (8->B, 0->O)"}],
+  "uncertain": false
+ },
+ {
+  "i": 68,
+  "field": "Text",
+  "corrected": "The King of the Monsters, who first\nappeared in a series of Japanese\nfilms made in response to the\natomic bombings of Hiroshima and\nNagasaki. The monster typically has\na reptilian look, walks on two legs,\nhas a long tail. and has \"nuclear\nbreath.\"",
+  "changes": [{"from": "appeared In a", "to": "appeared in a", "note": "mid-sentence 'in' wrongly capitalized"}],
+  "uncertain": false
+ },
+ {
+  "i": 69,
+  "field": "Text",
+  "corrected": "The minor character on the show\nSeinfeld. She is a beautiful women\nwho Jerry cannot stay attracted to\nbecause of her large extremities.\nThe episode's writer, David Mandel,\ncreated the character in response to\nhis wife's own self-consciousness\nabout this condition.",
+  "changes": [{"from": "a beautiful women", "to": "a beautiful women", "note": "flagged only, unchanged: 'a beautiful women' reads as 'woman' but e/a is not a standard OCR misread; likely original text"}],
+  "uncertain": true
+ },
+ {
+  "i": 77,
+  "field": "Text",
+  "corrected": "A person who enforces language\nrules to an unusually high degree.\nAccording to knowyourmeme.com.\none of the earliest uses was in 1995,\nwhen a user on the newsgroup\nalt.gothic called someone out for\ncorrecting the use of the term\n\"thusly\" for \"thus.\"",
+  "changes": [{"from": "\"thus.•\"", "to": "\"thus.\"", "note": "removed stray bullet artifact adjacent to closing quote"}],
+  "uncertain": true
+ },
+ {
+  "i": 79,
+  "field": "Person",
+  "corrected": "Hannibal Lector",
+  "changes": [{"from": "Lector", "to": "Lector", "note": "flagged only, unchanged: real character is 'Lecter'; e/o not a standard OCR misread, may be the game's spelling"}],
+  "uncertain": true
+ },
+ {
+  "i": 81,
+  "field": "Text",
+  "corrected": "A surgeon credited with inventing a\nmaneuver that prevents suffocation\nwhen a person is choking by\njamming your fist into their\nabdomen. He also advocated for the\ntechnique be used to treat drowning\n(don't do it) and that malaria could\ntreat cancer, Lyme disease, and HIV.",
+  "changes": [{"from": "jamming YoUr fist", "to": "jamming your fist", "note": "garbled mixed-case 'YoUr'; mid-sentence 'your'"}],
+  "uncertain": false
+ },
+ {
+  "i": 82,
+  "field": "Text",
+  "corrected": "A would-be suicide bomber who\ntried and failed to blow up a plane\nwith his casual footwear. He was\ncaught trying to use a match to\nlight a fuse mid-flight, explosive\nsneaker in his lap. The incident\nprompted the TSA to institute\nfootwear screening at airports.",
+  "changes": [{"from": "at al rports", "to": "at airports", "note": "'airports' misread/split as 'al rports' (i->l plus stray space)"}],
+  "uncertain": false
+ },
+ {
+  "i": 89,
+  "field": "Text",
+  "corrected": "A storytelling toy bear from the 80s,\nwho had an audio cassette deck in\nhis body. Stories such as \"The\nWooly What's-It: Learning Can Be\nFun!\" and \"Tweeg and the Bounders:\nYou Have to Earn the Things\nWorth Having\" tended to focus on\npromoting positive behavior.",
+  "changes": [{"from": "from the BOs,", "to": "from the 80s,", "note": "'80s' misread as 'BOs' (8->B, 0->O)"}],
+  "uncertain": false
+ },
+ {
+  "i": 91,
+  "field": "Text",
+  "corrected": "The woman who gave birth to you\nand/or raised you. The word above\nor the actual name of your real-life\ncaregiver are both valid.",
+  "changes": [{"from": "both val id", "to": "both valid", "note": "stray space split inside word"}],
+  "uncertain": false
+ },
+ {
+  "i": 93,
+  "field": "Text",
+  "corrected": "A manifestation of the title\ncharacter in J.R.R. Tolkien's fantasy\nseries The Lord of the Rings. Frodo\ndescribes it as \"rimmed with fire,\nbut was itself glazed, yellow as a\ncat's, watchful and intent, and the\nblack slit of its pupil opened on a\npit, a window into nothing.\"",
+  "changes": [{"from": "Tolklen's", "to": "Tolkien's", "note": "'Tolkien' misread as 'Tolklen' (i->l)"}],
+  "uncertain": false
+ },
+ {
+  "i": 95,
+  "field": "Text",
+  "corrected": "A legendary ghost who is said to be\nconjured in a mirror by saying her\nname multiple times. Often\nattempted by young girls, the ghost\nis sometimes said to reveal the\nfuture and other times said to\nattempt to scratch the person's eyes\nout.",
+  "changes": [{"from": "conjured In a", "to": "conjured in a", "note": "mid-sentence 'in' wrongly capitalized"}],
+  "uncertain": false
+ },
+ {
+  "i": 97,
+  "field": "Text",
+  "corrected": "Former professional football player,\nactor, and Isotoner spokesman. He\nwas found not guilty of murder in\none of the most public trials of the\n20th century. He wrote a book\nabout the case called If I Did It and\nis currently incarcerated for the\ntheft of his own sports memorabilia.",
+  "changes": [{"from": "and lsotoner spokesman", "to": "and Isotoner spokesman", "note": "brand 'Isotoner'; capital I misread as lowercase l"}, {"from": "the\n2oth century", "to": "the\n20th century", "note": "'20th' misread as '2oth' (0->o)"}],
+  "uncertain": false
+ },
+ {
+  "i": 99,
+  "field": "Text",
+  "corrected": "A person infected with Hansen's\nDisease, which sometimes results in\nthe inability to feel pain and\nconsequent loss of body parts. To\nprevent the spread of the disease,\nthey were historically separated into\nisolated colonies-a practice still\nalive in India and China.",
+  "changes": [{"from": "alive In India", "to": "alive in India", "note": "mid-sentence 'in' wrongly capitalized"}],
+  "uncertain": false
+ },
+ {
+  "i": 100,
+  "field": "Text",
+  "corrected": "A villain from the Star Trek\nfranchise, who once controlled a\nportion of the earth during the\nEugenics Wars of the 90s. Ricardo\nMontalban played the genetically\nengineered superhuman, delivering\nlines such as \"Revenge is a dish that\nis best served cold.\"",
+  "changes": [{"from": "that\nIs best", "to": "that\nis best", "note": "mid-sentence 'is' wrongly capitalized"}],
+  "uncertain": false
+ },
+ {
+  "i": 102,
+  "field": "Text",
+  "corrected": "A member of a fictional R&B group\ncomposed of anthropomorphic\ndried grapes from the West Coast.\nThey came to prominence in\nclaymation form, singing a cover of\n\"I Heard It Through the Grapevine\"\nin an advertisement. They were also\npopular as plastic toys.",
+  "changes": [{"from": "Grapevine•\nin", "to": "Grapevine\"\nin", "note": "closing quote of song title garbled as bullet; opening quote present"}],
+  "uncertain": false
+ },
+ {
+  "i": 104,
+  "field": "Text",
+  "corrected": "The pretty racist mascot of a line of\npancake mixes and syrups by the\nQuaker Oats Company. Her\ncharacter was derived from a\nminstrel show's mammy-like figure.\nLike Uncle Ben, she represents an\nidealized view of domestic\nservitude in southern life.",
+  "changes": [{"from": "southern I ife", "to": "southern life", "note": "'life' misread/split as 'I ife' (l->I plus stray space)"}],
+  "uncertain": false
+ },
+ {
+  "i": 107,
+  "field": "Text",
+  "corrected": "An employee of a us Department of\nHomeland Security branch. Many of\nits employees are posted in airports\nto screen passengers and their\nproperty, including pat-downs and\nviewing x-rays. Their average salary\nis $25K-$38K per year, excluding\nswag.",
+  "changes": [{"from": "a us Department", "to": "a us Department", "note": "flagged only, unchanged: likely should be 'US' (other cards use 'US'), but lowercasing is not a clear OCR letter-misread"}],
+  "uncertain": true
+ },
+ {
+  "i": 108,
+  "field": "Text",
+  "corrected": "A member of a robotic civilization in\nthe Battlestar Galactica franchise.\nThey were created somewhat by\naccident on Caprica and are unique\nin that they experience many\ncommon human emotions and are\noften not fully aware of their status\nas a robotic lifeform.",
+  "changes": [{"from": "robotic llfeform", "to": "robotic lifeform", "note": "'lifeform' misread as 'llfeform' (i->l)"}],
+  "uncertain": false
+ },
+ {
+  "i": 110,
+  "field": "Person",
+  "corrected": "Babar",
+  "changes": [{"from": "Ba bar", "to": "Babar", "note": "stray space split inside name"}],
+  "uncertain": false
+ },
+ {
+  "i": 110,
+  "field": "Text",
+  "corrected": "An elephant from the children's\nbook by Jean de Brunhoff, who\ncritics argue offers a justification for\ncolonialism. In the book, he leaves\nthe jungle, visits a city, returns in a\ngreen suit, introduces French\ncivilization to his fellow elephants,\nand is crowned king.",
+  "changes": [{"from": "and Is crowned", "to": "and is crowned", "note": "mid-sentence 'is' wrongly capitalized"}],
+  "uncertain": false
+ },
+ {
+  "i": 114,
+  "field": "Text",
+  "corrected": "A monstrous deity created by H.P.\nLovecraft. It is hundreds of meters\ntall and has the the arms and legs of\na man, claws, the head of a giant\noctopus, and bat wings. Its mythos\ngained increased popularity from a\nseries of allusions to it in the HBO\nseries True Detective.",
+  "changes": [{"from": "has the the arms", "to": "has the the arms", "note": "flagged only, unchanged: duplicated 'the'; could be original typo, removing a word would change wording"}],
+  "uncertain": true
+ },
+ {
+  "i": 116,
+  "field": "Text",
+  "corrected": "A farm animal that suffers from a\ngenetic disorder that causes its\nmuscles to freeze for approximately\n10 seconds when panicked. The\ncondition is formally knows as\nmyotonia congenita, which\nBuzzfeed once described as \"easily\nthe cutest neurological disorder.\"",
+  "changes": [{"from": "formally knows as", "to": "formally knows as", "note": "flagged only, unchanged: reads as 'known as'; s/n not a standard OCR misread, likely original typo"}],
+  "uncertain": true
+ },
+ {
+  "i": 117,
+  "field": "Text",
+  "corrected": "A vampire mascot from the General\nMills Corporation's series of\nmonster-based breakfast cereals.\nLike his colleagues Franken-Berry,\nBoo-Berry, Fruit Brute, and Yummy\nMummy, his origin is a mystery. His\ntagline, \"I vant to eat your cereal!\"\nseems a little on the nose.",
+  "changes": [{"from": "his col leagues", "to": "his colleagues", "note": "stray space split inside word"}],
+  "uncertain": false
+ },
+ {
+  "i": 118,
+  "field": "Text",
+  "corrected": "A 40-foot wooden effigy that is set\non fire during a weeklong event in\nNevada's Black Rock Desert. The\norganizers deny that it has any\nconnection to similar wicker effigies\nthat were built by ancient Druids for\npagan Celtic rituals that some\nspeculate involved human sacrifice.",
+  "changes": [{"from": "speculate Involved", "to": "speculate involved", "note": "mid-sentence 'involved' wrongly capitalized"}],
+  "uncertain": false
+ }
+]

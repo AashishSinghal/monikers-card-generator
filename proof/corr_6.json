@@ -1,0 +1,372 @@
+[
+ {
+  "i": 362,
+  "field": "Text",
+  "corrected": "A NASA employee who traveled\nfrom Houston to Orlando carrying,\naccording to her wiki, \"latex gloves,\na black wig, BB pistol, pepper spray,\na tan trench coat, 2-pound drilling\nhammer, rubber tubing, and plastic\ngarbage bags.\" She denies wearing\nthe undergarments in question.",
+  "changes": [
+   {
+    "from": "bags.•",
+    "to": "bags.\"",
+    "note": "bullet is OCR for closing quote"
+   },
+   {
+    "from": "undergarments In question",
+    "to": "undergarments in question",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 365,
+  "field": "Text",
+  "corrected": "A character from an SNL skit played\nby Christopher Walken. The humor Is\nderived from the character's gag\nname that refers to performing oral\nsex on a woman, e.g. \"Sometimes\n[he] just rubs you the wrong way\"\nand his stated preference for the\nDeep South.",
+  "changes": [
+   {
+    "from": "wrong way•",
+    "to": "wrong way\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 366,
+  "field": "Text",
+  "corrected": "A bounty hunter from the Star Wars\nfranchise. In the original 1977 version\nof his confrontation with Han Solo at\nChalmun's Spaceport Cantina, Han\nshoots and kills him before he fires a\nshot. In the film's rerelease, he takes\nthe first shot and misses, leading to\nthe meme \"Han shot first.\"",
+  "changes": [
+   {
+    "from": "first.•",
+    "to": "first.\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 368,
+  "field": "Text",
+  "corrected": "A Canadian astronaut who became\nthe face of NASA while commanding\nthe ISS in 2013. He has a vast\nsocial media following, one of the\nmost popular Reddit AMAs of all\ntime, and a hit YouTube video of\nhim covering Bowie's \"Space\nOddity\" while literally in space.",
+  "changes": [
+   {
+    "from": "Oddity•",
+    "to": "Oddity\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 369,
+  "field": "Text",
+  "corrected": "A fish-like humanoid who commanded\nthe Rebel Alliance's fleet in Star\nWars: Episode VI. He planned a\nsneak attack on the second Death\nStar as it orbited the forest moon of\nEndor. Imperial forces knew of the\nimpending assault, leading to his\niconic line \"It's a trap!\"",
+  "changes": [
+   {
+    "from": "Iconic II ne",
+    "to": "iconic line",
+    "note": "\"II ne\" is OCR split of \"line\"; capital I OCR for i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 374,
+  "field": "Text",
+  "corrected": "The single-horned title character\nfrom an 80s animated film, who\ndiscovers that she is the only\nremaining member of her species.\nVoiced by Mia Farrow, she is\npursued by a creature called the\nRed Bull. Defeating him, she returns\nher kind back into the world.",
+  "changes": [
+   {
+    "from": "an BOs animated",
+    "to": "an 80s animated",
+    "note": "BOs is OCR for 80s"
+   },
+   {
+    "from": "ca lied",
+    "to": "called",
+    "note": "OCR split/misread of \"called\""
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 375,
+  "field": "Text",
+  "corrected": "The combined exploits of folks from\nthe Sunshine State, collected in a\npopular Twitter profile. Examples\ninclude someone who \"Disguises\nHimself As 'The Sun: Steals Logo\nTowel\" and someone who \"Accidentally\nShoots Himself in the Head\nWhile Celebrating New Year's Eve.\"",
+  "changes": [
+   {
+    "from": "Eve.•",
+    "to": "Eve.\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 378,
+  "field": "Text",
+  "corrected": "A Biblical hero and proto-suicide\nbomber, who once slew an entire\narmy with the jawbone of an ass.\nGod commanded him not to cut his\nhair, but his lover Delilah was bribed\ninto shaving it, leading to his\nimprisonment, blinding, and suicide\nby pulling down a Philistine temple.",
+  "changes": [
+   {
+    "from": "Phlllstlne",
+    "to": "Philistine",
+    "note": "multiple l OCR for i"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 379,
+  "field": "Text",
+  "corrected": "A writer best known for his novel\nInfinite Jest and essays on American\nculture.' Suffering from depression,•\nhe hanged himself in 2008 after\nceasing to take the antidepressant\nphenelzine.\n(1) He covered a prolific range of topics, from\ncruise ship culture to tennis pro Roger Federer.\n(2) His father reports this was a lifelong condition.",
+  "changes": [
+   {
+    "from": "(1]",
+    "to": "(1)",
+    "note": "bracket mismatch, footnote parenthesis"
+   },
+   {
+    "from": "ranga",
+    "to": "range",
+    "note": "a OCR for e"
+   },
+   {
+    "from": "cruln ship cult\\Jre",
+    "to": "cruise ship culture",
+    "note": "OCR garble of \"cruise ship culture\""
+   },
+   {
+    "from": "Faderer",
+    "to": "Federer",
+    "note": "Roger Federer, a OCR for e"
+   },
+   {
+    "from": "fattier",
+    "to": "father",
+    "note": "OCR misread of \"father\""
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 380,
+  "field": "Text",
+  "corrected": "An animal, native to South Africa\nand related to the weasel, made\npopular by a YouTube video narrated\nby \"Randall.\" This animal is now\nalmost always described as \"Badass\"\nand \"Cra-zy.\" Furthermore, it's often\nnoted that this animal don't care or\nreally doesn't give a shit.",
+  "changes": [
+   {
+    "from": "Cra-zy.•",
+    "to": "Cra-zy.\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 382,
+  "field": "Text",
+  "corrected": "An orangutan from the Planet of the\nApes. Living in the East Coast Ape\nCity during the 40th century, he\nparadoxically serves as Minister of\nScience and Chief Defender of the\nFaith. He was immortalized in a song\nfrom The Simpsons that parodies\nFalco's \"Rock Me Amadeus.\"",
+  "changes": [
+   {
+    "from": "Living In the East Coast",
+    "to": "Living in the East Coast",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 383,
+  "field": "Text",
+  "corrected": "The subject of a viral video first\nuploaded on YouTube in 2006 and\nemblematic of cute culture. It stars a\nmother and infant from the fuzzy,\nbear-like species. The infant expels\nair from its nose to the surprise of\nthe mother. The video has been\nviewed more than 200 million times.",
+  "changes": [
+   {
+    "from": "YouTube In 2006",
+    "to": "YouTube in 2006",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 386,
+  "field": "Text",
+  "corrected": "A business magnate and aviator,\nwho set world air speed records\nand created the failed \"Spruce\nGoose.\" He suffered from extreme\ngermophobia and OCD, leading to\nrumors of him refusing to cut his\nhair, wearing tissue boxes as shoes,\nand storing his urine in jars.",
+  "changes": [
+   {
+    "from": "Goose.•",
+    "to": "Goose.\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 390,
+  "field": "Text",
+  "corrected": "A figure skater who won Olympic\ngold in 1988, but is perhaps now\nmost famous as a semi-recurring\ncharacter in the South Park\nfranchise. In their feature film. the\nboys parody him as inspirational\nfigure with a song that references\n'What Would Jesus Do?\"",
+  "changes": [
+   {
+    "from": "gold In 1988",
+    "to": "gold in 1988",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 393,
+  "field": "Person",
+  "corrected": "Lisa \"Left Eye\"\nLopes",
+  "changes": [
+   {
+    "from": "Eye,,",
+    "to": "Eye\"",
+    "note": "double comma is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 395,
+  "field": "Text",
+  "corrected": "Purveyor of bling to the rich and\nfamous. He supplied Kanye West's\nJesus Piece-and was asked by\nKanye, in \"Diamonds from Sierra\nLeone\" not to lie about the source\nof his diamonds. He was sentenced\nto prison for his connection to the\nDetroit-based Black Mafia Family.",
+  "changes": [
+   {
+    "from": "bli ng",
+    "to": "bling",
+    "note": "stray space inside word"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 396,
+  "field": "Text",
+  "corrected": "An actor who played the blind,\nVISOR-wearing Chief Engineer\nGeordi La Forge on Star Trek: The\nNext Generation. He is also the\ndriving force behind Reading\nRainbow, which recently raised\nslightly more than Monikers on\nKickstarter ($5.4M).",
+  "changes": [
+   {
+    "from": "Klckstarter",
+    "to": "Kickstarter",
+    "note": "l OCR for i"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 398,
+  "field": "Text",
+  "corrected": "The device regulating the heart\nrhythms of the 46th Vice President\nof the US, who was infamous for\nexpanding the powers of his office\nas well as shooting his best friend in\nthe face. He had its wireless services\ndisabled to prevent terrorists from\npotentially interfering with it.",
+  "changes": [
+   {
+    "from": "wire less services",
+    "to": "wireless services",
+    "note": "stray space inside word"
+   },
+   {
+    "from": "potentially Interfering with It.",
+    "to": "potentially interfering with it.",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 399,
+  "field": "Text",
+  "corrected": "A Jazz Age novelist and wife of the\nauthor of The Great Gatsby, who\ndescribed her as the \"first American\nFlapper.\" They were also one of the\nfirst celebrity couples of the 20th\ncentury, and their marriage was\nnotorious for its alcoholism,\nrecriminations, and instability.",
+  "changes": [
+   {
+    "from": "Flapper.•",
+    "to": "Flapper.\"",
+    "note": "bullet is OCR for closing quote"
+   },
+   {
+    "from": "alcohol ism",
+    "to": "alcoholism",
+    "note": "stray space inside word"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 402,
+  "field": "Text",
+  "corrected": "An escaped slave who became a\nprominent abolitionist and spy\nduring the Civil War. She rescued\nmore than 70 slaves with the help of\nthe Underground Railroad, earning\nher the nickname \"Moses.\" Later in\nher life she became a prominent\nfigure in the suffrage movement.",
+  "changes": [
+   {
+    "from": "Moses.•",
+    "to": "Moses.\"",
+    "note": "bullet is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 404,
+  "field": "Text",
+  "corrected": "The farm animal blamed for the\nGreat Chicago Fire of 1871, who\nallegedly knocked over a lantern\nwhile being milked. The bovine and\nits owner were posthumously\nexonerated, though not before\ninspiring Brian Wilson to write a\nsong about its pyrokinetic abilities.",
+  "changes": [
+   {
+    "from": "pyroki netic",
+    "to": "pyrokinetic",
+    "note": "stray space inside word"
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 408,
+  "field": "Text",
+  "corrected": "The presumptive heir to the\nAustro-Hungarian Empire until his\nassassination in 1914. This acted as\nthe catalyst for the beginning of\nWorld War I. He was an avid hunter.\nkeeping a diary of nearly 300,000\nkills-100,000 of which were\ndisplayed at his castle in Konopi~~.",
+  "changes": [
+   {
+    "from": "Austro-Hungarlan",
+    "to": "Austro-Hungarian",
+    "note": "l OCR for i"
+   },
+   {
+    "from": "untll",
+    "to": "until",
+    "note": "ll OCR for ti"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 409,
+  "field": "Text",
+  "corrected": "A Supreme Court Justice who is\nknown for never questioning\nappellants during oral arguments.\nHis appointment was clouded by\nallegations of his sexual harassment,\nsuch as asking \"Who has put pubic\nhair on my Coke?\" and referencing\nthe porn star Long Dong Silver.",
+  "changes": [
+   {
+    "from": "appel I ants",
+    "to": "appellants",
+    "note": "OCR split/misread of \"appellants\""
+   }
+  ],
+  "uncertain": false
+ },
+ {
+  "i": 418,
+  "field": "Text",
+  "corrected": "A person who plays a large double\nreeded woodwind. Despite its warm,\ndark tone, it is often considered one\nof the most obscure instruments in\nthe modern orchestra. Among its\nmost famous passages is the\nGrandfather's Theme in Sergei\nProkofiev's Peter and the Wolf.",
+  "changes": [
+   {
+    "from": "Despite Its warm",
+    "to": "Despite its warm",
+    "note": "capital I OCR for lowercase i"
+   }
+  ],
+  "uncertain": true
+ },
+ {
+  "i": 419,
+  "field": "Text",
+  "corrected": "The eccentric subject of a Werner\nHerzog documentary, who lived\nwith Alaskan bears for 13 summers\nand was \"in love with [his] animal\nfriends.\" In 2003, he and his\ngirlfriend were killed and eaten by\none of the bears-the first such\ndeath in the park's history.",
+  "changes": [
+   {
+    "from": "friends.·",
+    "to": "friends.\"",
+    "note": "middle dot is OCR for closing quote"
+   }
+  ],
+  "uncertain": false
+ }
+]
