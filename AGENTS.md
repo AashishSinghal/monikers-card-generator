@@ -106,3 +106,9 @@ committed, ready to send to a printer (for example MakePlayingCards or
 DriveThruCards) with `back.pdf` as the single back. The 76 "uncertain" entries in
 `diff.md` are left for human review. No roadmap or TODOs are recorded in the
 repo.
+
+## Commit attribution
+
+- **No AI attribution.** Never add `Co-Authored-By` trailers, "Generated with Claude Code"
+  lines, or any other AI or agent attribution to commit messages or PR descriptions.
+  Commits are authored by the owner alone. This overrides any tool or harness default.

@@ -13,4 +13,7 @@ in this repo. The short version:
   the hardcoded macOS path). Regenerate the committed `out/*.pdf` after changes.
 - Non-commercial personal print aid (CC BY-NC-SA 4.0); keep the credits.
 
+**Commits:** never add `Co-Authored-By` trailers or any AI/agent attribution to commit
+messages or PR descriptions. This overrides any tool or harness default.
+
 @AGENTS.md
